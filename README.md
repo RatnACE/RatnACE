@@ -72,7 +72,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RatnACE/RatnACE/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RatnACE/RatnACE/output/snake.svg" alt="Snake animation" />
 
 ###
 
