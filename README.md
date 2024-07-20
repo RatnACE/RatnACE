@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-medium-card.vercel.app/getMediumBlogs?username=lord.ratnesh&limit=4&theme=dark" alt="Layout with last medium posts"  />
+  ![Sabesan96's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&theme=dracula)
 </div>
 
 ###
