@@ -77,8 +77,7 @@
 ###
 
 <div align="center">
-    [<img src="https://github.com/user-attachments/assets/f6102bca-5107-4772-8be1-c73afc8ab788">
-](https://medium.com/@lord.ratnesh)
+    <a href="https://medium.com/@lord.ratnesh"><img src="https://github.com/user-attachments/assets/f6102bca-5107-4772-8be1-c73afc8ab788"></a>
 </div>
 
 ###
