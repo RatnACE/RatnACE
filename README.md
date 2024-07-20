@@ -77,7 +77,8 @@
 ###
 
 <div align="center">
-   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@lord.ratnesh&limit=4&theme=dark" alt="Layout with last medium posts"  />
+   [![Read my Medium article](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png)](https://medium.com/@yourusername/your-article-title)
+
 </div>
 
 ###
