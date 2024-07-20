@@ -77,8 +77,7 @@
 ###
 
 <div align="center">
-   [![Read my Medium article](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png)](https://medium.com/@yourusername/your-article-title)
-
+    [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"  />](https://medium.com/@lord.ratnesh)
 </div>
 
 ###
