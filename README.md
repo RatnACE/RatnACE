@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`lord.ratnesh`&limit=4&theme=dark" alt="Layout with last medium posts"  />
+   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@lord.ratnesh&limit=4&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
