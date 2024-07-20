@@ -77,7 +77,8 @@
 ###
 
 <div align="center">
-    [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"  />](https://medium.com/@lord.ratnesh)
+    [![image](https://github.com/user-attachments/assets/f6102bca-5107-4772-8be1-c73afc8ab788)
+](https://medium.com/@lord.ratnesh)
 </div>
 
 ###
